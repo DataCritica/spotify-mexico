@@ -7,6 +7,7 @@ name = "pypi"
 pandas = "*"
 numpy = "*"
 plotly = "*"
+spotify-mexico = {editable = true, path = "."}
 
 [dev-packages]
 ipykernel = "*"

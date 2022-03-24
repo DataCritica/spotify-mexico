@@ -1,7 +1,9 @@
 # Spotify Mexico
-Analysis of weekly top songs in Spotify Mexico from 2020-12-01 to 2022-02-17
+Analysis of weekly top songs in Spotify Mexico from 2020-12-01 to 2022-02-17. All the datasets were downloaded from [Spotify Charts](https://charts.spotify.com/charts/overview/mx)
 
 Created by: Fer Aguirre
+
+---
 
 ## Directory Structure
 ```

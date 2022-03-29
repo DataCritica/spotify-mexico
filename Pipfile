@@ -8,6 +8,7 @@ pandas = "*"
 numpy = "*"
 plotly = "*"
 spotify-mexico = {editable = true, path = "."}
+openpyxl = "*"
 
 [dev-packages]
 ipykernel = "*"
